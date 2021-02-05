@@ -51,5 +51,7 @@ ZStore is an Ecommerce android app made for Athletes, it Contains Sportswear lik
 </li>
 </ul>
 
+<p>Bloggy is based on MVVM architecture and a repository pattern.</p>
+
 
 

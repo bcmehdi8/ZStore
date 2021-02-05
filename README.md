@@ -22,6 +22,17 @@ ZStore is an Ecommerce android app made for Athletes, it Contains Sportswear lik
 </ul>
 
 <h2><a id="user-content-tech-stack--open-source-libraries" class="anchor" aria-hidden="true" href="#tech-stack--open-source-libraries"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Tech stack &amp; Open-source libraries</h2>
+
+<div align="left">
+<p><a href="http://audhiaprilliant.github.io/" rel="nofollow"><img  alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" style="max-width:100%;"></a>
+<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="Firebase" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/firebase-1-282796.png" data-canonical-src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" style="max-width:100%;"></a>
+<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="Android Studio" width="26px" src="https://www.pinclipart.com/picdir/middle/542-5422938_android-studio-icon-android-studio-new-icon-clipart.png" style="max-width:100%;"></a>
+<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;"></a>
+<a href="http://audhiaprilliant.github.io/" rel="nofollow"><img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="max-width:100%;"></a></p>
+  </div>
+
+
+
 <ul>
 <li>
 <p>Minimum SDK level 21</p>

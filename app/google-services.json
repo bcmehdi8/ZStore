@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "482728466460",
+    "firebase_url": "https://zstore-45dc2.firebaseio.com",
+    "project_id": "zstore-45dc2",
+    "storage_bucket": "zstore-45dc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482728466460:android:4cd416f5220ec35a5d67d9",
+        "android_client_info": {
+          "package_name": "com.z.zstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482728466460-h11qg5eojltf14nbdn1bhkmstdkvpqcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.z.zstore",
+            "certificate_hash": "d6a840ab7778082ddfa65d3f29b870f1002c074a"
+          }
+        },
+        {
+          "client_id": "482728466460-ie7egg34p1eb1racqrkcn0rp2v25rh5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBhWOmo_YOwsNtl3yHhBGUwGyJTsvCJxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482728466460-ie7egg34p1eb1racqrkcn0rp2v25rh5u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

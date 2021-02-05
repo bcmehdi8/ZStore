@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProductDescriptionFragment">
+
+    <TextView
+        android:id="@+id/tv_product_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:textColor="#000000"
+        android:textSize="15sp"
+        android:text="Clean the air of Allergies, Dust, Asthma, Bacteria, Pollen, Mold Spores, Pet Dander
+Rated #1 in Only Comprehensive University Study for the Performance You Need
+Room air purifier removes 99%+ of Airborne Particles
+Best for Bedroom, Office, Living Room, Basement
+Lightweight and Easy to Move.\n\n
+Activated carbon filter for light odors and gases
+For smoke removal you are better going with the EJ air purifier
+Max also available in 220V/50 for international markets
+What's included: 1 Max HEPA Air Purifier / 1 Complete set of filters / User's Manual." />
+</FrameLayout>

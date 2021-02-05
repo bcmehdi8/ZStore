@@ -12,10 +12,10 @@ ZStore is an Ecommerce android app made for Athletes, it Contains Sportswear lik
 <ul>
 <li>Wishlist</li>
 <li>Cart</li>
-<li>Profiles Page</li>
-<li>Unlimited Categories</li>
-<li>Unlimited Products Listing</li>
+<li>Profile Page</li>
+<li>Categories</li>
 <li>Order Placed Page with unique order number</li>
+<li>Support Popular Payment Methods</li>
 <li>Contact Us Page</li>
 <li>About Us Page</li>
 <li>Push Notifiation to customers</li>

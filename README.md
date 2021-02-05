@@ -38,7 +38,7 @@ ZStore is an Ecommerce android app made for Athletes, it Contains Sportswear lik
 <p>Minimum SDK level 21</p>
 </li>
 <li>
-<p><a href="https://kotlinlang.org/" rel="nofollow">Kotlin</a> based, <a href="https://github.com/Kotlin/kotlinx.coroutines">Coroutines</a> + <a href="https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/" rel="nofollow">Flow</a> for asynchronous.</p>
+  <p><a href="#" rel="nofollow">Java</a> based,</p>
 </li>
 <li>
 <p>Hilt (alpha) for dependency injection.</p>
